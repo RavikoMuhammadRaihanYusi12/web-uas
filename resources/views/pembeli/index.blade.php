@@ -39,7 +39,7 @@
 <h2 class="mt-5">List Nama Pendaftar : </h2><br>
 <table class="table table-success table-striped mt-5">
     <tr>
-        <th>No</th>
+        <th>ID</th>
         <th>Nama</th>
         <th>NIK</th>
         <th>NO HP</th>

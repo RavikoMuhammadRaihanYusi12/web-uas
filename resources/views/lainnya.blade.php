@@ -51,15 +51,17 @@
 
     <!-- Content -->
     <div class="content-container text-light">
-        <h1 class="mt-4">Bagaimana Cara Memesan Tiker Konser?</h1>
+        <h1 class="mt-4 container-fluid">Bagaimana Cara Memesan Tiker Konser?</h1>
         </br>
+        <div>
         <h2 class="text-sm-start fs-5 ms-5">1. Pada menu home cari konser mana yang akan anda pesan, lalu klik pesan
             sekarang! <br>
             2. Lalu pilih tiket mana yang akan anda pesan <br>
             3. Isi form pemesanan dan jenis tiket yang akan anda pesan <br>
-            4. lalu pilih bayar sekarang <br>
-            5. Terakhir , cetak tiket konser anda untuk syarat masuk ke lapangan konser , dan selesai!
+            4. Terakhir , cetak tiket konser anda untuk syarat masuk ke lapangan konser , dan selesai!
         </h2>
+        </div>
+       
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
